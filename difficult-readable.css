@@ -3,4 +3,5 @@
 #nav ul { list-style: none; margin: 0; padding: 0; display: flex; }
 #nav ul li { margin-left: 1em; }
 #nav ul li a { color: rgb(51, 68, 85); font-size: 14px; text-decoration: none; text-transform: uppercase; letter-spacing: 2px; }
-#nav a:hover { color: rgba(87, 128, 155); }
+#nav a:hover { 
+    color: rgba(87, 128, 155); }
